@@ -7,6 +7,12 @@ function add(a,b)
 function subtract(a,b)
 {
   var subtract= a-b;
+  return subtract;
+}
+
+function add(a,b)
+{
+  var sum= a+b;
   return sum;
 }
 
