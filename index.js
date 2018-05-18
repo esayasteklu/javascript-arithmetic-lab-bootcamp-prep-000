@@ -42,4 +42,10 @@ function makeInt(n)
   return n;
 }
 
+function makeInt(n)
+{
+  n=parseInt(n);
+  return n;
+}
+
 
