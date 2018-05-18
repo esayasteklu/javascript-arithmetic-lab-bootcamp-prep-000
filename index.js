@@ -42,9 +42,9 @@ function makeInt(n)
   return n;
 }
 
-function makeInt(n)
+function preserveDecimal(n)
 {
-  n=parseInt(n);
+  n=parseFloat(n);
   return n;
 }
 
