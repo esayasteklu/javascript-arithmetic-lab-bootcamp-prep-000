@@ -36,4 +36,10 @@ function dec(a)
   return a;
 }
 
+function makeInt(n)
+{
+  n=parseInt(n);
+  return n;
+}
+
 
