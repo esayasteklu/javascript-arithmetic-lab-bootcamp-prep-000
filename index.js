@@ -4,3 +4,10 @@ function add(a,b)
   return sum;
 }
 
+function subtract(a,b)
+{
+  var subtract= a-b;
+  return sum;
+}
+
+
